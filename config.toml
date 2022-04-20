@@ -88,10 +88,10 @@ url = "resume/resume.pdf"
 
 [languages.ne]
 languageName = ":nepal:"
-title = "सुलभ तिमिल्सिना"
+title = "रोसिस नेउपाने "
 
 [languages.ne.params]
-author = "सुलभ तिमिल्सिना"
+author = "रोसिस नेउपाने "
 info = "बुज्दै , भोग्दै र सिक्दै!"
 description = ""
 keywords = ""
