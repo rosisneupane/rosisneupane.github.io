@@ -3,9 +3,6 @@ title = "About Me"
 slug = "about" 
 +++
 
-Hi, I an Rosis. I am a undergraduate student of computer engineering at the [Institue of Engineering, ](https://ioe.edu.np)[Paschimanchal Campus](https://www.ioepas.edu.np/). I have always been a keen observer of science and technology.
-    
-Since past few  years, I haven been focusing my self on learning and acquiring skills as a ML Developer. Besides I have an enthusiasm and an expertise on Android/Web Development with application of Machine Learning.
-
-I am interested in Image Processing, Natural Language Processing, and Generative Modeling.
-My ongoing final year dissertation is about Nepali Language Modeling. 
+Hi, I an Rosis. . I have always been a keen observer of science and technology.I am an undergraduate student pursuing Bachelor’s degree in Computer Engineering [Institue of Engineering, ](https://ioe.edu.np)[Paschimanchal Campus](https://www.ioepas.edu.np/).So far throughout my student years I’ve learned programming languages included in the course as well as other languages that I have deep interest on and are on demand on market. In early years I started with C programming language and currently focusing on Python. I specialize on python framework Django for back-end development. I am responsible for creating and developing the back end for websites of my client. In addition to excellent back-end programming and creativity I also have extensive knowledge in Bootstrap.
+Further I’ve learned other python frameworks for Machine Learning like NumPy, Pandas. For my final year project along with my teammates I’m working on developing a mobile app called “Plant Fix” which allows farmers to identify the disease on rice plant by capturing its leaf image. For my 3rd year minor project, along with my teammates, I did a project called “My Health” which allows users to identify the disease along with appropriate doctor for the treatment based on the symptoms they are facing.
+Working in IT requires both technical knowledge and ability to efficiently communicate with people. I am a quick learner and even better at understanding and adapting to critical situations. I have been able to build interpersonal and analytical skills which I am confident will be extremely useful in my line of work.
